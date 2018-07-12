@@ -12,7 +12,12 @@ That's it! You will now be able to type the command `exists.py` anywhere on the 
 
 `exists.py [path-to-file]`
 
+You can add more then one file by separating each path by a space!
+
+`exists.py [path-to-file] [path-to-second-file]`
+
 
 ### TODO
 
 - Add windows support (sorry)
+- Add directory checking support.
