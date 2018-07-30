@@ -18,4 +18,4 @@ You can add more then one file by separating each path by a space!
 
 ### TODO
 
-- Add windows support (sorry)
+- Add more features (maybe?)
